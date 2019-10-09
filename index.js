@@ -14,6 +14,6 @@ class Y {
 
 
 module.exports = {
-  X,
-  Y
+  X:X,
+  Y:Y
 }
